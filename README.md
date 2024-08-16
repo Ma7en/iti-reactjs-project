@@ -5,8 +5,6 @@
 ## Project Managers :-
 
     - Mazen Abdeltawab Saad
-    - Ahmed Mohamed Ahmed
-    - Nada Mohamed Shaaban
 
 ### Github :-
 
@@ -21,7 +19,7 @@
         - git add .
         - git commit -m "first commit"
         - git branch -M main
-        - git remote add origin git@github.com:Ma7en/iti-movie-app.git
+        - git remote add origin git@github.com:Ma7en/iti-reactjs-project
         - git push -u origin main
 
     - Branch:-
@@ -35,7 +33,7 @@
         - git push -u origin main
 
     - Clone:-
-        - git clone git@github.com:Ma7en/iti-movie-app.git
+        - git clone git@github.com:Ma7en/iti-reactjs-project.git
 
     - Pull:-
         - git pull -r origin main
